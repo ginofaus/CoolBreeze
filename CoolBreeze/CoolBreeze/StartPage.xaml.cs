@@ -12,6 +12,8 @@ namespace CoolBreeze
         public StartPage()
         {
             InitializeComponent();
+
+            //yes i do.. i believe that one day
         }
 
         protected override void OnAppearing()
